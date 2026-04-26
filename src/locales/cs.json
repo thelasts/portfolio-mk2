@@ -1,0 +1,12 @@
+{
+  "home": "Domů",
+  "about": "O mně",
+  "contact": "Kontakt",
+  "header.title": "Portfólio",
+  "lang.en.label": "Angličtina",
+  "lang.en.title": "Přepnout do angličtiny",
+  "lang.cs.label": "Čeština",
+  "lang.cs.title": "Přepnout do čestiny",
+  "home.text": "Kratký popis",
+  "about.text": "(cs) - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+}
